@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerCapsule
+  - Enemy
+  - Enemy Head
+  - Bullet
+  - Physics Box
+  - Level 1 Collider
+  - Death Box
+  - Level 2 Collider
+  - Level 3 Collider
+  - Level 4 Collider
+  - AvoidWall
+  - ShootWall
+  - SaveCollider
+  - LoadCollider
+  - AvoidWall2
+  - AvoidWall3
+  - AvoidWall4
+  - Alarm
+  - GOAPenemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Obstacle
+  - Grapple
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

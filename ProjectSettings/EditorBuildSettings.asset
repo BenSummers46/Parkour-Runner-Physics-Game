@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 094bac8d8bddbce448d4e634fd61e3bf
+  - enabled: 1
+    path: Assets/Scenes/Death Screen.unity
+    guid: 3252123cbc89dd84386d4ac3e6d290dc
+  - enabled: 1
+    path: Assets/Scenes/Level 1 - Introduction.unity
+    guid: 521a0e41371f5d345a01053dd3b1d435
+  - enabled: 1
+    path: Assets/Scenes/Level 2 - Puzzles.unity
+    guid: 421f4d3b62495b64385c68c962f25454
+  - enabled: 1
+    path: Assets/Scenes/Level 3 - Bouncing.unity
+    guid: 4c0be5abf9003c14ca053b3d7d1bf697
+  - enabled: 1
+    path: Assets/Scenes/Level 4 - Horde.unity
+    guid: 4a6725c9ed2e4974b880ab7f7c7d94ca
+  m_configObjects: {}
